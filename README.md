@@ -1,3 +1,3 @@
 # Responsive-Equal-height-Column-using-Flexbox
-Responsive Equal Column Height using Flexbox
-Free to use.
+#Responsive Equal Column Height using Flexbox
+#Free to use.
